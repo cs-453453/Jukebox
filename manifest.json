@@ -1,0 +1,7 @@
+{
+    "name": "Jukebox",
+    "version": "1.0.0",
+    "supported": "3.1.7",
+    "type": "skill",
+    "buttonColor": "#8A2BE2 #3B1266"
+}
